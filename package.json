@@ -1,5 +1,10 @@
 {
+	"author":"Shantibhushan Tayade",
+	"description": "A project for freecodecamp npm course",
+	"keywords": ["freecodecamp","npm","backend","apis"],
 	"name": "fcc-learn-npm-package-json",
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
